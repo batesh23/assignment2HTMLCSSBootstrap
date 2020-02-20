@@ -1,0 +1,27 @@
+body {
+  background-color: #FFE6E8;
+}
+nav {
+  margin-bottom: 4em;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+h1 {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #549060;
+}
+p {
+  font-family: 'PT Serif', serif;
+  font-size: 1REM;
+}
+#canDo{
+  font-size: 6em;
+  font-family: 'Roboto Condensed', sans-serif;
+  margin-bottom: 1em;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-decoration-color: red;
+}
+button {
+  width: 10em;
+  font-family: 'Roboto Condensed', sans-serif;
+}
